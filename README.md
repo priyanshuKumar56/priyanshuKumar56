@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Builder | 🧠 Hackathon Participant</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshuKumar56/priyanshuKumar56/main/assets/banner-dev.gif" alt="Coding banner" width="100%" />
+  <img src="https://github.com/priyanshuKumar56/priyanshuKumar56/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Coding banner" width="100%" />
 </p>
 
 
@@ -15,19 +15,19 @@
   - 💫 A modern Animated UI Kit (GSAP + Rive)
 - 🌱 I’m learning Rust, advanced JavaScript, and building custom databases
 - 🧠 I participate in hackathons & contribute to open source
-- 📫 Reach me at: *[add your email or contact]*
+- 📫 Reach me at: *priyanshukumar93861@gmail.com*
 
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/proejfjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="proejfjd" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/dsjkffffjfbdsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsjkffffjfbdsj" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/dfbiu3hr3u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dfbiu3hr3u" height="30" width="40" /></a>
+  <a href="https://codepen.io/Priyanshu-Kumar-the-vuer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="proejfjd" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/priyanshu-kumar-web-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsjkffffjfbdsj" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/27356029/priyanshu-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dfbiu3hr3u" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/djfd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="djfd" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/dsjhfgds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsjhfgds" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/dsjfdshfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dsjfdshfd" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/dsfhdgsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dsfhdgsh" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/priyanshukumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dsjhfgds" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/priyanshukumar95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dsjfdshfd" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/priyanshukumar93861/_gl=1*yeovhi*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwprjDBhBTEiwA1m1d0oBBPidyPXJaAe7deRLkqb8E4ugINQ5fTlzGWO8geI51ZvToK3YP4hoCHkkQAvD_BwE&gbraid=0AAAAAC9yBkBYvoog7bf0jhSBUzHFJ1FSx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dsfhdgsh" height="30" width="40" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 <h3 align="left">☕ Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/dhsahkfshf"> 
+  <a href="https://buymeacoffee.com/priyanshukumar76"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhsahkfshf" />
   </a>
 </p>
