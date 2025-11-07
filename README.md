@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🎨 UI/UX Builder | 🧠 Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://github.com/priyanshuKumar56/priyanshuKumar56/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" alt="Coding banner" width="100%" />
-</p>
-
 
 ---
 
