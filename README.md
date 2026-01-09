@@ -48,12 +48,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=priyanshuKumar56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=priyanshuKumar56&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuKumar56&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuKumar56&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top languages"
   />
