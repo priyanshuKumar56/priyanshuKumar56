@@ -31,6 +31,8 @@
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=priyanshuKumar56&theme=algolia&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <h3>🛠️ Tech Stack & Arsenal</h3>
@@ -62,6 +64,7 @@
 
 <br>
 
+[![Priyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshuKumar56&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=priyanshuKumar56&theme=tokyonight&hide_border=true&background=00000000" width="80%" alt="streak graph" />
 </p>
